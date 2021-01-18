@@ -19,7 +19,7 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 [Add your details here]`<--Don't remove this line`<br/>
 
 **Name**:  Aayudh Bhattacharya  <br/>
-**SRN**:  PES2UG20CS006
+**SRN**:  PES2UG20CS006  <br/>
 **Link to profile**:  [Aayudh](https://github.com/Aayudh)  <br/>
 **About Me**:  I love programming and have been programming for quite a few years now and am hoping to learn a lot more from PESOS and am looking forward to learn,contribute and work with u all!  <br/>
 
