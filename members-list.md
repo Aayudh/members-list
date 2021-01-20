@@ -18,6 +18,11 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 ## The list 
 [Add your details here]`<--Don't remove this line`<br/>
 
+**Name**:  Aayudh Bhattacharya  <br/>
+**SRN**:  PES2UG20CS006  <br/>
+**Link to profile**:  [Aayudh](https://github.com/Aayudh)  <br/>
+**About me**:  I love programming and have been programming for a few years now and I am looking forward to learning,contributing and working with PESOS.  <br/>
+
 **Name**:  Urmil Kalaria <br/>
 **SRN**: PES1UG20CS189 <br/>
 **Link to Profile**: [urmilkalaria](https://github.com/urmilkalaria) <br/>
